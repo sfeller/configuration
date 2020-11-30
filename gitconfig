@@ -1,0 +1,5 @@
+[credential]
+	help = cache --timeout=36000
+[user]
+	email = sfeller@aqueti.com
+	name = Steve Feller
